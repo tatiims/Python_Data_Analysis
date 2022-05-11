@@ -1,2 +1,2 @@
 ## Python_Data_Analysis
-Estudos sobre Análise de dados com a Python 
+Estudos sobre Análise de dados com Python 
